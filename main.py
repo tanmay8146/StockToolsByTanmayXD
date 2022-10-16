@@ -1,4 +1,5 @@
 from pricechart import Chart as chartXD
+from Finance import finance
 
 from os import system
 
