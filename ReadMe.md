@@ -1,4 +1,6 @@
-Project Name: Stock & Crypto Market Predictions
+
+Stock & Crypto Market Predictions
+
     Project Description             : Predict the future price using python ML mechanism & Yahoo Finance database
     Project Programming Language    : Python 3.10
     Project Started                 : 14/10/2022
